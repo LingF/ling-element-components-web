@@ -1,0 +1,1 @@
+import{d as n,r as a,a as i,o as l,c,w as r,b as _}from"./index-c3fee512.js";const m=n({__name:"index",setup(p){const e=a(!1);return(d,o)=>{const s=i("l-choose-icon");return l(),c(s,{title:"选择图标",visible:e.value,"onUpdate:visible":o[0]||(o[0]=t=>e.value=t)},{default:r(()=>[_("选择图标")]),_:1},8,["visible"])}}});export{m as default};

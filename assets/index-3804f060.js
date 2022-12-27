@@ -1,1 +1,0 @@
-import{d as a,a as c,o as s,c as t}from"./index-cad09d42.js";const l=a({__name:"index",setup(r){const o=e=>{console.log(e)};return(e,_)=>{const n=c("l-choose-area");return s(),t(n,{onChange:o})}}});export{l as default};
